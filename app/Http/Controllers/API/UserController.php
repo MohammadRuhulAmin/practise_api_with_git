@@ -4,6 +4,7 @@ use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use App\User;
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Password;
 use Validator;
 class UserController extends Controller
 {
@@ -55,5 +56,10 @@ class UserController extends Controller
     {
         $user = Auth::user();
         return response()->json(['success' => $user], $this-> successStatus);
+    }
+    public function forgot() {
+        $credentials = request()->validate(['email' => 'required|email']);
+        Password::sendResetLink($credentials);
+        return response()->json(["msg" => 'Reset password link sent on your email id.']);
     }
 }
