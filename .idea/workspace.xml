@@ -114,6 +114,7 @@
       <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
       <path value="$PROJECT_DIR$/vendor/psr/log" />
       <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1logDpobPlwDSzWv3OlBklxsdAu" />
@@ -148,7 +149,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608268744465</updated>
-      <workItem from="1608268745837" duration="1963000" />
+      <workItem from="1608268745837" duration="3813000" />
     </task>
     <servers />
   </component>
@@ -156,9 +157,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2182" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1608269721820">
+    <state x="2182" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1608270841352">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
-    <state x="2182" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1608269721820" />
+    <state x="2182" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1608270841352" />
   </component>
 </project>
