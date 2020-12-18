@@ -115,6 +115,20 @@
       <path value="$PROJECT_DIR$/vendor/psr/log" />
       <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-zendframework-bridge" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-diactoros" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/nyholm/psr7" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vendor/defuse/php-encryption" />
+      <path value="$PROJECT_DIR$/vendor/league/event" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth2-server" />
+      <path value="$PROJECT_DIR$/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/vendor/php-http/message-factory" />
+      <path value="$PROJECT_DIR$/vendor/laravel/passport" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
     </include_path>
   </component>
   <component name="ProjectId" id="1logDpobPlwDSzWv3OlBklxsdAu" />
@@ -149,7 +163,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608268744465</updated>
-      <workItem from="1608268745837" duration="4870000" />
+      <workItem from="1608268745837" duration="6330000" />
     </task>
     <servers />
   </component>
@@ -157,9 +171,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2182" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1608274077361">
+    <state x="2182" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1608279290079">
       <screen x="1920" y="0" width="1366" height="728" />
     </state>
-    <state x="2182" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1608274077361" />
+    <state x="2182" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1608279290079" />
   </component>
 </project>
