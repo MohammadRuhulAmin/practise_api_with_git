@@ -24,6 +24,9 @@ Route::post('login', 'API\UserController@login');
 Route::post('register', 'API\UserController@register');
 Route::group(['middleware' => 'auth:api'], function(){
     Route::post('details', 'API\UserController@details');
+    Route::post('change-password','API\UserController@change_password');
 });
 
 Route::post('password/email', 'API\UserController@forgot');
+
+

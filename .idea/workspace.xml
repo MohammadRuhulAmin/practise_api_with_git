@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8914eae4-9781-4261-8431-2e8bf140e5d5" name="Default Changelist" comment="" />
+    <list default="true" id="8914eae4-9781-4261-8431-2e8bf140e5d5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/API/UserController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/API/UserController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -132,6 +139,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1logDpobPlwDSzWv3OlBklxsdAu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -163,7 +171,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608268744465</updated>
-      <workItem from="1608268745837" duration="7568000" />
+      <workItem from="1608268745837" duration="9547000" />
+      <workItem from="1608307927593" duration="1857000" />
     </task>
     <servers />
   </component>
@@ -171,9 +180,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2182" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1608279290079">
-      <screen x="1920" y="0" width="1366" height="728" />
+    <state x="246" y="-1" width="840" height="966" key="search.everywhere.popup" timestamp="1608308081048">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="2182" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1608279290079" />
+    <state x="246" y="-1" width="840" height="966" key="search.everywhere.popup/0.0.1280.680/1920.0.1366.728@0.0.1280.680" timestamp="1608308081048" />
+    <state x="2182" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1280.680/1920.0.1366.728@1920.0.1366.728" timestamp="1608281325986" />
   </component>
 </project>
